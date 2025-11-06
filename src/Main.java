@@ -4,8 +4,11 @@ public class Main {
     public static void main(String[] args) {
 
 
+        SumaEntero.main();
+
 
         Numero_par_impar.main();
 
     }
 }
+
