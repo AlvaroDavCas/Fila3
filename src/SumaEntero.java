@@ -1,6 +1,6 @@
 public class SumaEntero {
 
-            public static void main(String[] args) {
+            public static void main() {
 
                 int num1 = 4;
                 int num2 = 6;
@@ -9,6 +9,8 @@ public class SumaEntero {
 
                 System.out.println("el resultado de la suma es : " + resultado);
             }
-        }
+
+
+}
 
 
