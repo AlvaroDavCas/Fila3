@@ -12,6 +12,7 @@ public class Main {
 
     Numero_par_impar.main();
     System.out.println("Aprobado");
+
     }
 }
 
